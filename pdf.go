@@ -18,7 +18,7 @@ import (
 	"errors"
 	"math"
 
-	"bitbucket.org/krepost/gopdf/pdf"
+	"github.com/krepost/gopdf/pdf"
 )
 
 // DrawInvoice draws a standard Swiss QR Invoice on the given canvas, starting

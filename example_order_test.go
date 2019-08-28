@@ -15,8 +15,8 @@
 package swissqr_test
 
 import (
-	"bitbucket.org/krepost/gopdf/pdf"
 	"fmt"
+	"github.com/krepost/gopdf/pdf"
 	"github.com/krepost/structref"
 	"github.com/krepost/swissqr"
 	"os"

@@ -18,7 +18,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"bitbucket.org/krepost/gopdf/pdf"
+	"github.com/krepost/gopdf/pdf"
 )
 
 func TestExample1FromStandard(t *testing.T) {
